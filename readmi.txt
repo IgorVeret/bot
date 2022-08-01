@@ -4,3 +4,4 @@
 4. Запустите команды
 docker build -t tg-bot .
 docker run -d tg-bot
+5.
